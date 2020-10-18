@@ -18,7 +18,7 @@ import javax.imageio.ImageIO;
 
 public class Main extends Application {
 
-    private final String PATH = "/home/uros/Desktop/ft.xml";
+    private final String PATH = "C:\\Users\\urosi\\src\\FamilyTreeGenerator\\ft.xml";
     private final int BOX_WIDTH = 70;
     private final int BOX_HEIGHT = 20;
     private final int BOX_PADDING_HOR = 50;
